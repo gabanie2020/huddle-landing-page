@@ -29,7 +29,7 @@
 
 .third-p{
     padding: 8rem 3rem 5rem 5rem;
-    margin-right: 5rem;
+    /* margin-right: 5rem; */
 }
 
 .third-img {
@@ -49,4 +49,27 @@
 .fourth-img {
     padding-top: 1rem;
     margin-left: 5rem;
+}
+
+.foot-sec {
+    background-color: hsl(192, 100%, 9%);
+    /* margin-top: 3rem; */
+}
+
+.foot-img {
+    /* -webkit-filter: opacity(.8) drop-shadow(0 0 0 white); */
+    filter: opacity(.5) drop-shadow(0 0 hsl(0, 0%, 100%));
+}
+
+.foot-about{
+    margin-top: 5rem;
+}
+
+.second-build {
+    position: relative;
+    top: 7rem;
+}
+
+.about {
+    margin-top: 10rem;
 }
